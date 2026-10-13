@@ -6,7 +6,7 @@ Este proyecto contiene una carpeta donde están todas las actividades realizadas
 
 A lo largo de los ejercicios se trabajan diferentes conceptos, como el uso de variables, condicionales, bucles, arrays,y trabajar con formularios de HTML mediante la función post.
 
-##Objetivo
+## Objetivo
 Los principales objetivos de esta práctica son:
 - Aprender a declarar y utilizar variables en PHP.
 - Utilizar estructuras condicionales y bucles.
