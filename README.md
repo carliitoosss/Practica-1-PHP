@@ -4,7 +4,7 @@
 
 Este proyecto contiene una carpeta donde están todas las actividades realizadas en la práctica.
 
-A lo largo de los ejercicios se trabajan diferentes conceptos, como el uso de variables, condicionales, bucles, arrays,y trabajar con formularios de HTML mediante la función post.
+A lo largo de los ejercicios se trabajan diferentes conceptos, como el uso de variables, condicionales, bucles, arrays,y trabajar con formularios de HTML mediante post.
 
 ## Objetivo
 Los principales objetivos de esta práctica son:
@@ -27,3 +27,25 @@ En esta práctica se trabajan diferentes conceptos básicos de PHP mediante los 
 | 4 | registro.html y procesar.php | Formularios |
 | 5 | Pendiente | Pendiente de revisar |
 | 6 | agenda.php y agenda.html | Agenda de contactos |
+
+## Información importante
+
+> Esta práctica tiene como objetivo aprender los fundamentos
+> de PHP mediante ejercicios sencillos y prácticos.
+
+
+La práctica se realiza utilizando ~~Java~~ **PHP** como lenguaje de programación.
+
+## Ejemplo de código PHP
+
+En PHP utilizamos la instrucción `echo` para
+mostrar información por pantalla.
+
+Por ejemplo:
+
+```php
+<?php
+$nombre = "Carlos";
+echo "Hola, " . $nombre;
+?>
+```
