@@ -1,5 +1,9 @@
 # Practica-1-PHP
 
+![PHP](https://img.shields.io/badge/Lenguaje-PHP-777BB4)
+
+![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)
+
 ## Descripción del proyecto
 
 Este proyecto contiene una carpeta donde están todas las actividades realizadas en la práctica.
