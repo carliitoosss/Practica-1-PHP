@@ -120,3 +120,26 @@ la práctica de PHP.
 - [ ] Revisar el ejercicio 5.
 - [ ] Comprobar el funcionamiento de la agenda.
 - [ ] Realizar pruebas finales de los ejercicios.
+
+
+## Avisos importantes
+
+> [!NOTE]
+> Para ejecutar los ejercicios es necesario disponer
+> de un servidor local compatible con PHP,
+> como XAMPP.
+
+## Información adicional
+
+Los ejercicios de esta práctica están desarrollados
+utilizando PHP[^1], un lenguaje de programación
+especialmente utilizado en el desarrollo web.
+
+[^1]: PHP es un lenguaje de programación del lado
+    del servidor que permite generar contenido
+    dinámico en páginas web.
+
+> [!WARNING]
+> Antes de ejecutar los formularios, comprueba
+> que el servidor Apache está iniciado y que
+> los archivos PHP están ubicados correctamente.
