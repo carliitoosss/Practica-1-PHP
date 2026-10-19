@@ -94,4 +94,4 @@ A continuación se muestra el logotipo de PHP,
 el lenguaje utilizado para desarrollar los ejercicios
 de esta práctica.
 
-![Logotipo de PHP](images/logo-php.svg)
+![Logotipo de PHP](Practica1/images/logo-php.svg)
