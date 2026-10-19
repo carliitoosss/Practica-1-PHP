@@ -185,3 +185,20 @@ Puedes consultar las modificaciones realizadas
 en el archivo [CHANGELOG.md](CHANGELOG.md).
 
 </details>
+
+## Diagrama de funcionamiento
+
+El siguiente diagrama representa el funcionamiento
+general de los ejercicios de nuestra práctica de PHP.
+
+```mermaid
+flowchart TD
+    A[Usuario] --> B[Navegador web]
+    B --> C[Seleccionar ejercicio]
+    C --> D[Ejecutar archivo PHP]
+    D --> E{¿Requiere datos?}
+    E -->|Sí| F[Introducir datos]
+    F --> G[Procesar información]
+    E -->|No| G
+    G --> H[Mostrar resultado]
+```
