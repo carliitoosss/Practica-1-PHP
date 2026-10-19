@@ -95,3 +95,13 @@ el lenguaje utilizado para desarrollar los ejercicios
 de esta práctica.
 
 ![Logotipo de PHP](Practica1/images/logo-php.svg)
+
+## Historial de cambios
+
+En este proyecto se documentan las modificaciones
+y mejoras realizadas durante el desarrollo de
+los ejercicios de PHP.
+
+Puedes consultar todos los cambios en el
+[registro de cambios](CHANGELOG.md).
+
