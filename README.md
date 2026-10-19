@@ -206,3 +206,21 @@ flowchart TD
     E -->|No| G
     G --> H[Mostrar resultado]
 ```
+
+## Licencia
+
+Este proyecto está distribuido bajo la
+**licencia MIT**.
+
+He elegido esta licencia porque permite utilizar,
+modificar y distribuir libremente el código,
+siempre que se mantengan los avisos de derechos
+de autor y de la licencia.
+
+Considero que es adecuada para una práctica
+educativa de PHP, ya que facilita que otros
+estudiantes puedan consultar y reutilizar
+el código para aprender.
+
+Puedes consultar la licencia completa en
+el archivo [LICENSE](LICENSE).
