@@ -88,3 +88,10 @@ Haz clic en el siguiente logotipo para visitar
 la página oficial de PHP:
 
 [![Logotipo de PHP](https://www.php.net/images/logos/new-php-logo.svg)](https://www.php.net/)
+## Imagen del proyecto
+
+A continuación se muestra el logotipo de PHP,
+el lenguaje utilizado para desarrollar los ejercicios
+de esta práctica.
+
+![Logotipo de PHP](images/logo-php.svg)
