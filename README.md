@@ -143,3 +143,45 @@ especialmente utilizado en el desarrollo web.
 > Antes de ejecutar los formularios, comprueba
 > que el servidor Apache está iniciado y que
 > los archivos PHP están ubicados correctamente.
+
+## Preguntas frecuentes (FAQ)
+
+<details>
+<summary>¿Qué necesito para ejecutar los ejercicios?</summary>
+
+Es necesario tener instalado un entorno que permita
+ejecutar PHP, como **XAMPP**, y utilizar un navegador web.
+
+</details>
+
+<details>
+<summary>¿Cómo puedo ejecutar un archivo PHP?</summary>
+
+1. Inicia el servidor Apache desde XAMPP.
+2. Guarda los archivos del proyecto en la carpeta `htdocs`.
+3. Abre el navegador.
+4. Accede al archivo mediante `localhost`.
+
+</details>
+
+<details>
+<summary>¿Qué conceptos se trabajan en esta práctica?</summary>
+
+Los principales conceptos son:
+
+- Variables y operadores.
+- Estructuras condicionales.
+- Bucles.
+- Arrays y funciones.
+- Formularios HTML.
+- Procesamiento de datos mediante POST.
+
+</details>
+
+<details>
+<summary>¿Dónde puedo consultar los cambios del proyecto?</summary>
+
+Puedes consultar las modificaciones realizadas
+en el archivo [CHANGELOG.md](CHANGELOG.md).
+
+</details>
