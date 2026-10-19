@@ -105,3 +105,18 @@ los ejercicios de PHP.
 Puedes consultar todos los cambios en el
 [registro de cambios](CHANGELOG.md).
 
+
+## Tareas pendientes
+
+A continuación se muestra el estado de las
+tareas realizadas durante el desarrollo de
+la práctica de PHP.
+
+- [x] Crear el proyecto de PHP.
+- [x] Realizar el ejercicio de presentación.
+- [x] Crear la tabla de multiplicar.
+- [x] Implementar la gestión de notas.
+- [x] Crear el formulario de registro.
+- [ ] Revisar el ejercicio 5.
+- [ ] Comprobar el funcionamiento de la agenda.
+- [ ] Realizar pruebas finales de los ejercicios.
