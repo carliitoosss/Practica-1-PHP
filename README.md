@@ -49,3 +49,35 @@ $nombre = "Carlos";
 echo "Hola, " . $nombre;
 ?>
 ```
+## Tecnologías utilizadas
+
+### PHP
+
+Lenguaje de programación utilizado para desarrollar
+la lógica de los ejercicios.
+
+### HTML
+
+Lenguaje de marcado utilizado para crear la estructura
+de las páginas y los formularios.
+
+### GitHub
+
+Plataforma utilizada para almacenar el código y
+documentar el proyecto mediante Markdown.
+
+## Conceptos aprendidos
+
+Durante esta práctica hemos trabajado:
+
+- Fundamentos de PHP
+  - Variables.
+  - Operadores.
+  - Estructuras condicionales.
+  - Bucles.
+- Trabajo con datos
+  - Arrays.
+  - Funciones.
+- Formularios HTML
+  - Campos de entrada.
+  - Envío de información mediante POST.
