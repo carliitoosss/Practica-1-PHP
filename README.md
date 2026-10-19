@@ -81,3 +81,10 @@ Durante esta práctica hemos trabajado:
 - Formularios HTML
   - Campos de entrada.
   - Envío de información mediante POST.
+
+## Página oficial de PHP
+
+Haz clic en el siguiente logotipo para visitar
+la página oficial de PHP:
+
+[![Logotipo de PHP](https://www.php.net/images/logos/new-php-logo.svg)](https://www.php.net/)
